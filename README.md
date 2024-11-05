@@ -1,13 +1,13 @@
 # CCLA-STC
 
-Dependencies:
+**Dependencies:**
 ```
-python==3.6.13 
-pytorch==1.6.0. 
-sentence-transformers==2.0.0. 
-transformers==4.8.1. 
-tensorboardX==2.4.1
-pandas==1.1.5
-sklearn==0.24.1
-numpy==1.19.5
+python==3.9.13 
+pytorch==2.2.1. 
+sentence-transformers==2.2.2. 
+transformers==4.36.2. 
+tensorboardX==2.6.2.2
+pandas==2.0.3
+sklearn==1.3.1
+numpy==1.26.4
 ```
